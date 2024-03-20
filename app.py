@@ -6,7 +6,7 @@ from spacy import displacy
 
 
 # Load the spaCy model
-med7 = spacy.load("en_core_med7_trf")
+med7 = spacy.load("en_core_med7_lg")
 # Create distinct colours for labels
 col_dict = {}
 seven_colours = ['#e6194B', '#3cb44b', '#ffe119',
