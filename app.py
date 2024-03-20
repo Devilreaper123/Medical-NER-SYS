@@ -3,7 +3,6 @@ import spacy
 import requests
 import streamlit as st
 from spacy import displacy
-import subprocess
 
 
 # Load the spaCy model
@@ -35,7 +34,7 @@ def main():
 
 
 def show_medical_ner():
-    """This function will process the text using MED7 model and give its NE"""
+    """This function wistll process the text using MED7 model and give its NE"""
     st.header("Medical Named Entity Recognition (NER)")
     st.write(
         "Enter medical text to visualize named entities recognized by the Med7 model.")
