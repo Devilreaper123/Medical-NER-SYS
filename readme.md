@@ -1,6 +1,6 @@
 ![image](https://github.com/Devilreaper123/System-s-Integration/assets/67621176/2185640c-8408-4d2c-8d58-8ef592482891)
 
-# Assignment 1: System's Integration
+# Final Project : System's Integration
 
 ## Welcome to the GitHub Repository of Ronit Shahu!
 
@@ -66,9 +66,12 @@ pip install -r Requirements.txt
 ### Running the Application
 
 With your virtual environment set up and dependencies installed, you're ready to run the application:
-
 ```bash
-python app.py
+python api.py
+```
+and then run : 
+```bash
+streamlit run app.py
 ```
 
 ---
@@ -79,6 +82,6 @@ Your contributions are what make the community such an amazing place to learn, i
 
 ---
 
-We hope this guide helps you get started with "Assignment 1: System's Integration". Happy coding!
+We hope this guide helps you get started with "Final Project : System's Integration". Happy coding!
 
 ---
