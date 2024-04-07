@@ -13,6 +13,7 @@ colorama==0.4.6
 confection==0.1.4
 cymem==2.0.8
 en-core-med7-lg @ https://huggingface.co/kormilitzin/en_core_med7_lg/resolve/main/en_core_med7_lg-any-py3-none-any.whl#sha256=2c8ce371b7ee8b3c42cce7c05031ab165e6e88cc3ed136797eb3c492af96001f
+en-core-med7-trf @ https://huggingface.co/kormilitzin/en_core_med7_trf/resolve/main/en_core_med7_trf-any-py3-none-any.whl#sha256=a3e0f27b7379e0fa26d9b23b63f7d24154208ff3fdd04796da4e4bc9c01a6e01
 filelock==3.13.1
 Flask==3.0.2
 fsspec==2024.3.1
