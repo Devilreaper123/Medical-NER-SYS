@@ -79,7 +79,7 @@ streamlit run app.py
 
 To test the model, use the file name:
 ```bash
-Medicine Text.txt
+Medicine data.txt
 ```
 Since the data inside is used from Harvard's NLP dataset (n2c2 Challenge), it has been carefully extracted so as not to reveal any sensitive data (HIPAA Compliance). Unfortunatly more data cannot be revealed to maintain the NDA.
 
